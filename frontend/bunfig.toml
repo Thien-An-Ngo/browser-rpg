@@ -1,0 +1,4 @@
+name = "rpg-frontend"
+version = "1.0.0"
+description = "RPG Frontend with Svelte and TypeScript"
+scripts = {dev = "svelte-kit dev"}

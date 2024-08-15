@@ -1,0 +1,4 @@
+name = "rpg-backend"
+version = "1.0.0"
+description = "RPG Backend with Sails.js"
+scripts = {start = "sails lift"}
